@@ -56,9 +56,9 @@ pytest tests/test_output.py -v
 Output:
 
 ====================================================================== test session starts =======================================================================
-platform darwin -- Python 3.10.17, pytest-7.4.4, pluggy-1.6.0 -- /Users/iryna.yevdokymova/PycharmProjects/smart_complaint/smart_complaint/.venv/bin/python
+platform darwin -- Python 3.10.17, pytest-7.4.4, pluggy-1.6.0 -- ~/PycharmProjects/smart_complaint/smart_complaint/.venv/bin/python
 cachedir: .pytest_cache
-rootdir: /Users/iryna.yevdokymova/PycharmProjects/smart_complaint
+rootdir: ~/PycharmProjects/smart_complaint
 plugins: anyio-4.9.0
 collected 2 items                                                                                                                                                
 
